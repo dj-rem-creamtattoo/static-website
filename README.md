@@ -1,4 +1,3 @@
-# DJ Rem CreamTattoo
 ![Buenos dias pedrilas](local_images/image_1.jpg)
 
 ## Это мой сайт-блог-дневник, здесь я буду выкладывать все, что мне интересно
