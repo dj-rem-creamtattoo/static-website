@@ -16,4 +16,4 @@
 ## Хотя, он и не реактивный, ну и ладно
 
 ## Пока все, скоро здесь будет больше всего. Stay tuned
-![Kiss a pussy](local_gifs/gif_2.mp4)
+![Kiss a pussy](local_gifs/gif_2.gif)
